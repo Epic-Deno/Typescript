@@ -1,0 +1,21 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "flow",
+  "main": "index.js",
+  "author": "xiao yao zi <1557549413@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "init:config": "yarn flow init",
+    "checkType": "yarn flow",
+    "stop:dev": "yarn flow stop"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/preset-flow": "^7.14.5",
+    "flow-bin": "^0.156.0",
+    "flow-remove-types": "^2.156.0"
+  }
+}
