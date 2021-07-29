@@ -1,0 +1,16 @@
+Deno 替换node V8 TypeScript
+TypeScript  JavaScript 超集 编程语言 静态类型和面向对象
+大型应用 或 多人协作
+
+
+TypeScript VS JavaScript
+
+1.应用程序语言
+2.是JS的超集  less sass css typescript -》 JavaScript
+3.跨平台 且开源
+4.开始于JS终止于JS 语法语意多一样的
+5.重用JS 甚至可以引入JS流行的库 E charts
+6.TypeScript 类 接口 模块
+
+Deno node  vue ng react 
+npm install typescript -g

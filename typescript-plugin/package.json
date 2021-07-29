@@ -1,0 +1,13 @@
+{
+  "name": "typescript-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "xiao yao zi <1557549413@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "^1.0.0-rc.9"
+  }
+}

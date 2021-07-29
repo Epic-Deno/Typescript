@@ -1,0 +1,11 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "tyscript",
+  "main": "index.js",
+  "author": "xiaoyaozi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.7.7"
+  }
+}
