@@ -8,4 +8,12 @@ function square (n: number) {
      return n * n
 }
 
-square('100')
+let num: number = 100
+
+// num = 'string'
+
+function foo() :void {
+
+}
+// 没返回的就设置成一个void
+
