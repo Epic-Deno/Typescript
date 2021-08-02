@@ -1,3 +1,4 @@
+"use strict";
 /*
  * @Description: 作用域的问题
  * @Author: Pony
@@ -5,11 +6,9 @@
  * @LastEditors: Pony
  * @LastEditTime: 2021-08-02 22:50:28
  */
-
+Object.defineProperty(exports, "__esModule", { value: true });
 // (_ => {
 //     const a: number = 123
 // })()
-
-const a: number = 123
-
-export {}
+var a = 123;
+//# sourceMappingURL=03-module-scope.js.map

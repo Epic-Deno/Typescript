@@ -3,7 +3,7 @@
  * @Author: Pony
  * @Date: 2021-08-01 22:40:04
  * @LastEditors: Pony
- * @LastEditTime: 2021-08-02 22:49:30
+ * @LastEditTime: 2021-08-02 22:54:22
 -->
 
 # Typescript 知识点：
@@ -22,3 +22,4 @@
 * 标准库就是就是内置对象所对应的声明
 
 * 作用问题第一个是创建一个匿名函数，第二个是export创建一个模块的作用域
+
