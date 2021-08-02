@@ -3,7 +3,7 @@
  * @Author: Pony
  * @Date: 2021-08-01 22:40:04
  * @LastEditors: Pony
- * @LastEditTime: 2021-08-02 22:42:51
+ * @LastEditTime: 2021-08-02 22:49:30
 -->
 
 # Typescript 知识点：
@@ -20,3 +20,5 @@
 * lib 添加其他的引用就可以验证其他类型的参数： `"lib": ["es2015", "DOM"]`,DOM就是浏览器的DOM里面的API
 
 * 标准库就是就是内置对象所对应的声明
+
+* 作用问题第一个是创建一个匿名函数，第二个是export创建一个模块的作用域
