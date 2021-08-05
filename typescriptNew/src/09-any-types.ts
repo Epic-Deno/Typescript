@@ -3,7 +3,7 @@
  * @Author: Pony
  * @Date: 2021-08-04 22:54:24
  * @LastEditors: Pony
- * @LastEditTime: 2021-08-04 23:00:57
+ * @LastEditTime: 2021-08-05 22:02:56
  */
 export {} // 确保跟其他成员没有冲突
 
@@ -22,4 +22,4 @@ let foo: any = 1100
 foo = 100
 
 foo.bar()
-//any 是一个弱类型的， 这个类型不安全
+//any 是一个弱类型的， 这个类型不安全 any是为了更好的兼容老的代码
