@@ -3,7 +3,7 @@
  * @Author: Pony
  * @Date: 2021-08-06 23:14:57
  * @LastEditors: Pony
- * @LastEditTime: 2021-08-06 23:42:10
+ * @LastEditTime: 2021-08-06 23:42:40
  */
 export {} // 确保跟其他的示例成员没冲突
 
@@ -26,4 +26,4 @@ const res = createNumberArray(3, 100)
 
 // res => [100, 100, 100]
 
-const res2 = createArray<string>(3, 'Pony')// T 泛型就是不声明类型传入类型生成指定类型的
+const res2 = createArray<string>(3, 'Pony')// T 泛型就是不声明类型传入类型生成指定类型的，开发的时候不明确类型就是用传入的方式
